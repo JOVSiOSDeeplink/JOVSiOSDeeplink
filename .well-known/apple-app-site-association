@@ -1,0 +1,57 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appIDs": [
+"55V67PTHK5.com.centralmarket.ecom.qa"
+],
+"components": [
+{
+"/": "/shop",
+"comment": "Matches home"
+},
+{
+"/": "my-account/buy-again",
+"comment": "Matches my items"
+},
+{
+"/": "/product/*",
+"comment": "Matches PDP"
+},
+{
+"/": "/search/*",
+"?": {
+"q": "*"
+},
+"comment": "Matches search"
+},
+{
+"/": "/my-account/my-orders/*",
+"comment": "Matches past orders"
+},
+{
+"/": "product-category/*",
+"comment": "Matches product category"
+}
+]
+},
+{
+"appID": "55V67PTHK5.com.centralmarket.ecom.qa",
+"paths": [
+"/shop",
+"/my-account/buy-again",
+"/product/*",
+"/search/*",
+"/my-account/my-orders/*",
+"product-category/*"
+]
+}
+]
+},
+"activitycontinuation": {
+"apps": [
+"55V67PTHK5.com.centralmarket.ecom.qa"
+]
+}
+}
