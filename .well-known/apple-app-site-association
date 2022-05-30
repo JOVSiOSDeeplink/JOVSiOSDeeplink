@@ -4,7 +4,7 @@
 "details": [
 {
 "appIDs": [
-"55V67PTHK5.com.centralmarket.ecom.qa"
+"55V67PTHK5.com.joevs.ecom.qa"
 ],
 "components": [
 {
@@ -37,7 +37,7 @@
 ]
 },
 {
-"appID": "55V67PTHK5.com.centralmarket.ecom.qa",
+"appID": "55V67PTHK5.com.joevs.ecom.qa",
 "paths": [
 "/shop",
 "/my-account/buy-again",
@@ -51,7 +51,7 @@
 },
 "activitycontinuation": {
 "apps": [
-"55V67PTHK5.com.centralmarket.ecom.qa"
+"55V67PTHK5.com.joevs.ecom.qa"
 ]
 }
 }
