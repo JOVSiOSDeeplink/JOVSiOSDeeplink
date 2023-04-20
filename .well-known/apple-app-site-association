@@ -52,6 +52,10 @@
                     {
                         "/": "/recipes/*",
                         "comment": "Recipe Details page"
+                    },
+                      {
+                        "/": "/offers/*",
+                        "comment": "Offer Details page"
                     }
                 ]
             },
@@ -68,6 +72,7 @@
                     "/recipes/saved-recipes",
                     "/recipes/planned-meals",
                     "/recipes/*"
+                    "/offers/*"
                 ]
             }
         ]
