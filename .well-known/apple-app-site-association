@@ -71,7 +71,7 @@
                     "/recipes/browse",
                     "/recipes/saved-recipes",
                     "/recipes/planned-meals",
-                    "/recipes/*"
+                    "/recipes/*",
                     "/offers/*"
                 ]
             }
